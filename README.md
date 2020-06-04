@@ -1,3 +1,5 @@
+<p align="center"><img width="130" src="https://raw.githubusercontent.com/putyourlightson/craft-redactor-aria-label/v1/src/icon.svg"></p>
+
 # Redactor Aria Label Plugin for Craft CMS 3
 
 Adds an Aria Label to the Redactor plugin's link module.
