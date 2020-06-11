@@ -1,7 +1,7 @@
 {
     "name": "putyourlightson/craft-redactor-aria-label",
     "description": "Adds an Aria Label to the Redactor plugin's link module.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "craft-plugin",
     "license": "mit",
     "require": {
